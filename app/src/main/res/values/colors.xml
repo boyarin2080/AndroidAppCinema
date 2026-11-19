@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cinema_red">#E50914</color>
+    <color name="cinema_red_dark">#B0060F</color>
+    <color name="cinema_dark">#0E0E10</color>
+    <color name="cinema_surface">#17171B</color>
+    <color name="cinema_surface_light">#232329</color>
+    <color name="cinema_text">#F5F5F7</color>
+    <color name="cinema_muted">#9A9AA2</color>
+    <color name="ic_launcher_background">#0E0E10</color>
+</resources>
